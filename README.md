@@ -1,4 +1,4 @@
-# SemEval2024
+# SemEval2024 Task 8 subtask A
 
 Conribution: Equal Contribution
 
